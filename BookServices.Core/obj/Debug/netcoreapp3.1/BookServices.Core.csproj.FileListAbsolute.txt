@@ -1,0 +1,9 @@
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\bin\Debug\netcoreapp3.1\BookServices.Core.deps.json
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\bin\Debug\netcoreapp3.1\BookServices.Core.dll
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\bin\Debug\netcoreapp3.1\BookServices.Core.pdb
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\obj\Debug\netcoreapp3.1\BookServices.Core.csprojAssemblyReference.cache
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\obj\Debug\netcoreapp3.1\BookServices.Core.AssemblyInfoInputs.cache
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\obj\Debug\netcoreapp3.1\BookServices.Core.AssemblyInfo.cs
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\obj\Debug\netcoreapp3.1\BookServices.Core.csproj.CoreCompileInputs.cache
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\obj\Debug\netcoreapp3.1\BookServices.Core.dll
+D:\Programming\Project\.Net Project\mongoTest\BookServices.Core\obj\Debug\netcoreapp3.1\BookServices.Core.pdb

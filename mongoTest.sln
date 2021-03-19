@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongoWeb", "mongoWeb\mongoWeb.csproj", "{A55C5D95-538E-497F-B424-5AB27D2B3626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookServices.Core", "BookServices.Core\BookServices.Core.csproj", "{80D7843B-6C31-4D0A-84EA-56FBBD8D242C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55C5D95-538E-497F-B424-5AB27D2B3626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55C5D95-538E-497F-B424-5AB27D2B3626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55C5D95-538E-497F-B424-5AB27D2B3626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55C5D95-538E-497F-B424-5AB27D2B3626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D7843B-6C31-4D0A-84EA-56FBBD8D242C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D7843B-6C31-4D0A-84EA-56FBBD8D242C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D7843B-6C31-4D0A-84EA-56FBBD8D242C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D7843B-6C31-4D0A-84EA-56FBBD8D242C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D1BF92-B325-40BA-8192-430AA3980ABD}
+	EndGlobalSection
+EndGlobal
